@@ -1,4 +1,4 @@
 Code for a project comparing reaches to a smoothly moving targets versus discrete jumping targets. Code on the data collection side:
 
 - Arduino code to control stimulus presentation
-- Python code to do trial control and log data
+- Python code to do trial control and log data (6218_ball_light_arduino_autoadvance)
